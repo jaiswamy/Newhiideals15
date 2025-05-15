@@ -52,7 +52,7 @@ define('DB_PASSWORD', 'hi!de@sl@User#5466');
 
 /** Database hostname */
 
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'db' );
 
 /** Database charset to use in creating database tables. */
 
